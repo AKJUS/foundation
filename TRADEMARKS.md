@@ -90,7 +90,7 @@ The Commonhaus Foundation uses the following unregistered trademarks[^other]:
     <img src="https://github.com/commonhaus/artwork/blob/main/projects/debezium/featured/debezium-logo-lightbkg.svg?raw=true" alt="" height="30" />
 - EasyMock:
     - EasyMock Logo [^1]  
-    <img src="https://github.com/easymock/easymock/blob/master/website/img/easymock-logo-md.png?raw=true" alt="" height="30" />
+       <img src="https://github.com/easymock/easymock/blob/master/website/img/easymock-logo-md.png?raw=true" alt="" height="30" />
     - Objenesis Logo [^1]  
         <img src="https://github.com/easymock/objenesis/blob/master/website/site/resources/objenesis-logo.png?raw=true" alt="" height="30" />
 - [Hibernate](https://github.com/commonhaus/artwork/tree/main/projects/hibernate) Logo  
@@ -124,7 +124,7 @@ The Commonhaus Foundation uses the following unregistered trademarks[^other]:
     - [qbicc](https://github.com/commonhaus/artwork/tree/main/projects/qbicc) Logo  
         <img src="https://github.com/commonhaus/artwork/blob/main/projects/qbicc/featured/qbicc-logo-lightbkg.svg?raw=true" alt="" height="30" />
     - roq Logo  
-        <img src="https://github.com/quarkiverse/quarkus-roq/blob/main/logo/out/roq-icon.png?raw=true" alt="" height="30" />
+        <img src="https://github.com/quarkiverse/quarkus-roq/blob/main/logo/logo-color.svg?raw=true" alt="" height="30" />
     - [smallrye](https://github.com/commonhaus/artwork/tree/main/projects/smallrye) Logo  
         <img src="https://github.com/commonhaus/artwork/blob/main/projects/smallrye/featured/smallrye-logo-lightbkg.svg?raw=true" alt="" height="30" />
 - SDKMAN! Logo [^1]  
