@@ -111,7 +111,7 @@ The Commonhaus Foundation uses the following unregistered trademarks[^other]:
 - Morphia Logo  
     <img src="https://github.com/MorphiaOrg/morphia-docs/blob/master/supplemental-ui/img/logo.png?raw=true" alt="" height="30" />
 - Pi4J Logo [^1]  
-    <img src="https://github.com/Pi4J/pi4j-logo/blob/master/logo/Pi4J_Logo.svg?raw=true" alt="" height="30" />
+    <img src="https://github.com/Pi4J/pi4j-logo/blob/master/logo/Pi4J_Logo.svg?raw=true" alt="" height="30" />[^2]
 - Quarkus:
     - [Quarkus](https://github.com/commonhaus/artwork/tree/main/projects/quarkus) Logo  
         <img src="https://github.com/commonhaus/artwork/blob/main/projects/quarkus/featured/quarkus-logo-lightbkg.svg?raw=true" alt="" height="30" />
