@@ -47,7 +47,7 @@ feign:
 hibernate:
   name: Hibernate
   repo: https://github.com/hibernate/
-  status: onboarding
+  status: active
   mail-domain: hibernate.org
   display:
     home: https://hibernate.org/
