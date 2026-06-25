@@ -22,8 +22,8 @@ The Commonhaus Foundation uses the following unregistered trademarks:
 
 - Commonhaus Foundation &trade;
 - Debezium &trade;
-- EasyMock &trade; [^1]
-    - Objenesis &trade; [^1]
+- EasyMock &trade;
+    - Objenesis &trade;
 - Hibernate:
     - Hibernate ORM &trade;
     - Hibernate Search &trade;
@@ -37,11 +37,11 @@ The Commonhaus Foundation uses the following unregistered trademarks:
     - Infinispan Console
     - Hot Rod
     - Ickle
-- JBang &trade; [^1]
+- JBang &trade;
     - JBang Jash
     - JBang AppStore
     - JBang Catalog
-- JReleaser &trade; [^1]
+- JReleaser &trade;
 - Jackson &trade; [^1]
 - Kroxylicious &trade;
 - Morphia &trade;
@@ -89,9 +89,9 @@ The Commonhaus Foundation uses the following unregistered trademarks[^other]:
 - [Debezium](https://github.com/commonhaus/artwork/tree/main/projects/debezium/) Logo  
     <img src="https://github.com/commonhaus/artwork/blob/main/projects/debezium/featured/debezium-logo-lightbkg.svg?raw=true" alt="" height="30" />
 - EasyMock:
-    - EasyMock Logo [^1]  
+    - EasyMock Logo  
        <img src="https://github.com/easymock/easymock/blob/master/website/img/easymock-logo-md.png?raw=true" alt="" height="30" />
-    - Objenesis Logo [^1]  
+    - Objenesis Logo  
         <img src="https://github.com/easymock/objenesis/blob/master/website/site/resources/objenesis-logo.png?raw=true" alt="" height="30" />
 - [Hibernate](https://github.com/commonhaus/artwork/tree/main/projects/hibernate) Logo  
     <img src="https://github.com/commonhaus/artwork/blob/main/projects/hibernate/featured/hibernate-logo-lightbkg.svg?raw=true" alt="" height="30" />
@@ -99,9 +99,9 @@ The Commonhaus Foundation uses the following unregistered trademarks[^other]:
     <img src="https://github.com/commonhaus/artwork/blob/main/projects/infinispan/featured/infinispan-logo-lightbkg.svg?raw=true" alt="" height="30" />
 - Jackson Logo [^1]  
     <img src="https://github.com/FasterXML.png"  alt="" height="30" />
-- JBang Logo [^1]  
+- JBang Logo  
     <img src="https://www.jbang.dev/assets/images/logo.png" alt="" height="30" />
-- JReleaser Logo [^1]  
+- JReleaser Logo  
     <img src="https://jreleaser.org/images/jreleaser-duke.png" alt="" height="30" />[^2]
 - [Kroxylicious](https://github.com/commonhaus/artwork/tree/main/projects/kroxylicious) Logo  
     <img src="https://github.com/commonhaus/artwork/blob/main/projects/kroxylicious/featured/kroxylicious-logo-lightbkg.svg?raw=true" alt="" height="30" />
