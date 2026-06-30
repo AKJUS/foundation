@@ -86,6 +86,15 @@ sponsors:
         1Password offers free Teams accounts to open source projects, aiming to enhance
         their productivity and security.
 
+  Google:
+    name: Google
+    tier:
+      - bronze
+    display:
+      home: https://www.google.com
+      logo: https://www.commonhaus.org/images/sponsors/Google-Cloud-Logo.webp
+      logo-dark: https://www.commonhaus.org/images/sponsors/Google-Cloud-Logo-Dark.webp
+
   Gradle:
     name: Gradle
     tier:
